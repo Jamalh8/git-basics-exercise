@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the first file in the repo. There are sevaral spelling mistakes to fix.
+=======
+This is hte frst file in the rpo. Ther are sevaral speling mistaks to fix.
+>>>>>>> 9ac0925a7cf9c786bbb0d504cf216eaee43632e5
