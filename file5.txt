@@ -1,3 +1,2 @@
-<<<<<<< HEAD
 This is the fifth file in the repo. There are severel spelling mistakes to fix.
 
